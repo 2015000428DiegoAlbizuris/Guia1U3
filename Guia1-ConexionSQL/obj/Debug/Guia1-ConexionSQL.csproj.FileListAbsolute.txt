@@ -1,0 +1,10 @@
+C:\Users\LABORATORIO\Desktop\Santiago López Leonardo 23 VA\Guia1-ConexionSQL\Guia1-ConexionSQL\bin\Debug\Guia1-ConexionSQL.exe.config
+C:\Users\LABORATORIO\Desktop\Santiago López Leonardo 23 VA\Guia1-ConexionSQL\Guia1-ConexionSQL\bin\Debug\Guia1-ConexionSQL.exe
+C:\Users\LABORATORIO\Desktop\Santiago López Leonardo 23 VA\Guia1-ConexionSQL\Guia1-ConexionSQL\bin\Debug\Guia1-ConexionSQL.pdb
+C:\Users\LABORATORIO\Desktop\Santiago López Leonardo 23 VA\Guia1-ConexionSQL\Guia1-ConexionSQL\obj\Debug\Guia1-ConexionSQL.csproj.AssemblyReference.cache
+C:\Users\LABORATORIO\Desktop\Santiago López Leonardo 23 VA\Guia1-ConexionSQL\Guia1-ConexionSQL\obj\Debug\Guia1_ConexionSQL.Form1.resources
+C:\Users\LABORATORIO\Desktop\Santiago López Leonardo 23 VA\Guia1-ConexionSQL\Guia1-ConexionSQL\obj\Debug\Guia1_ConexionSQL.Properties.Resources.resources
+C:\Users\LABORATORIO\Desktop\Santiago López Leonardo 23 VA\Guia1-ConexionSQL\Guia1-ConexionSQL\obj\Debug\Guia1-ConexionSQL.csproj.GenerateResource.cache
+C:\Users\LABORATORIO\Desktop\Santiago López Leonardo 23 VA\Guia1-ConexionSQL\Guia1-ConexionSQL\obj\Debug\Guia1-ConexionSQL.csproj.CoreCompileInputs.cache
+C:\Users\LABORATORIO\Desktop\Santiago López Leonardo 23 VA\Guia1-ConexionSQL\Guia1-ConexionSQL\obj\Debug\Guia1-ConexionSQL.exe
+C:\Users\LABORATORIO\Desktop\Santiago López Leonardo 23 VA\Guia1-ConexionSQL\Guia1-ConexionSQL\obj\Debug\Guia1-ConexionSQL.pdb
